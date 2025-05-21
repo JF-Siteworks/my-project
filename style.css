@@ -22,3 +22,8 @@ body {
   width: auto;
   top: 25px;
 }
+
+.text {
+top: 70px;
+text-size: 50px;
+}
