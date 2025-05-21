@@ -24,7 +24,7 @@ body {
 }
 
 .text {
-top: 70px;
+margin-top: 70px;
 text-size: 50px;
 color: white;
 }
