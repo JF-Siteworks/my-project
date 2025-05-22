@@ -26,10 +26,9 @@ body {
 .center-box {
   height: 328.47px;
   width: 480px;
-  margin: 210px auto 0 auto; 
+  margin: 220px auto 0 auto; 
   padding: 20px;
   background-color: white;
   border-radius: 23.53px;
   text-align: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
